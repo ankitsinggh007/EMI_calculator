@@ -1,8 +1,31 @@
-# React + Vite
+# Digital EMI calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Digital EMI Calculator  is a modern React application . It allows users to get the estimate the strcuture if emi and can also genate the pdf.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Setup
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/ankitsinggh007/EMI_calculator.git
+   cd blog-web-app-frontend
+   ```
+2. **Install Dependencies**
+```bash
+npm install
+```
+ link for that 
+
+ 4. **Run the Development Server**
+
+ ```bash
+ npm run dev
+```
+
+The application will be available at http://localhost:5173/ by default.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
