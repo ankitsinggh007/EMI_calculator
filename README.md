@@ -11,7 +11,7 @@ The Digital EMI Calculator  is a modern React application . It allows users to g
 
    ```bash
    git clone https://github.com/ankitsinggh007/EMI_calculator.git
-   cd blog-web-app-frontend
+   cd emi_calculator
    ```
 2. **Install Dependencies**
 ```bash
